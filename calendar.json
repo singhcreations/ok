@@ -165,7 +165,14 @@
           {
             "date": "19 Mar",
             "event": "Gurgaddi Diwas\nGuru Amardass Ji"
-          }
+          },{
+            "date": "22 Mar",
+            "event": "Jyoti Jyot\nSri Guru Angad Dev Ji"
+          },
+          {
+            "date": "23 Mar",
+            "event": "Jyoti Jyot\nSri Guru Hargobind Ji"
+          },
         ]
       }
     },
@@ -198,14 +205,6 @@
           }
         ],
         "gurupurab": [
-          {
-            "date": "01 Apr",
-            "event": "Jyoti Jyot\nSri Guru Angad Dev Ji"
-          },
-          {
-            "date": "02 Apr",
-            "event": "Jyoti Jyot\nSri Guru Hargobind Ji"
-          },
           {
             "date": "11 Apr",
             "event": "Gurgaddi Diwas\nSri Guru Teg Bahadur Ji"
