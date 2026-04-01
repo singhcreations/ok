@@ -1,191 +1,14 @@
 {
   "items": [
     {
-      "title": "Poh-Magh",
-      "month": "January 2026",
-      "description": "Poh-Magh Description",
-      "types": {
-        "important": [
-          {
-            "date": "14 Jan",
-            "event": "Sangrand (Magh)"
-          },
-          {
-            "date": "03 Jan",
-            "event": "Puranmashi"
-          },
-          {
-            "date": "18 Jan",
-            "event": "Masya"
-          }
-        ],
-        "gurupurab": [
-          {
-            "date": "31 Jan",
-            "event": "Prakash Purab\nShri Guru Har Rai Sahib Ji"
-          }
-        ],
-        "historical": [
-          {
-            "date": "06 Jan",
-            "event": "Shaheedi Diwas Bhai Kehar Singh\nBhai Satwant Singh "
-          },
-          {
-            "date": "14 Jan",
-            "event": "Foundation day \nSachkhand Sri Harimandir Sahib"
-          },
-          {
-            "date": "14 Jan",
-            "event": "Jor Mela Shri Mukatsar Sahib (Maghi) "
-          },
-          {
-            "date": "20 Jan",
-            "event": "Chabiyan Da Morcha"
-          },
-          {
-            "date": "23 Jan",
-            "event": "Marriage Day\nSri Guru Gobind Singh ji \n(Guru ka Lahore)"
-          },
-          {
-            "date": "23 Jan",
-            "event": "Bansant Panchami"
-          },
-          {
-            "date": "26 Jan",
-            "event": "Republic Day"
-          },
-          {
-            "date": "27 Jan",
-            "event": "Janam Diwas\nBaba Deep Singh Ji"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Magh - Phaggan",
-      "month": "February 2026",
-      "description": "jan 26 tak ka sara ho gya h",
-      "types": {
-        "important": [
-          {
-            "date": "12 Feb",
-            "event": "Sangrand (Fagun)"
-          },
-          {
-            "date": "01 Feb",
-            "event": "Puranmashi"
-          },
-          {
-            "date": "17 Feb",
-            "event": "Masya"
-          }
-        ],
-        "gurupurab": [
-          {
-            "date": "0 Feb",
-            "event": "No Gurpurab in this month"
-          }
-        ],
-        "historical": [
-          {
-            "date": "01 Feb",
-            "event": "Janam Diwas\nBhagat Ravidas Ji"
-          },
-          {
-            "date": "09 Feb",
-            "event": "Vadda Ghallu Ghara"
-          },
-          {
-            "date": "11 Feb",
-            "event": "Janam Diwas\nSahibzada Baba Ajit Singh Ji"
-          },
-          {
-            "date": "21 Feb",
-            "event": "Shaheedi Saka Sri Nankana Sahib"
-          },
-          {
-            "date": "21 Feb",
-            "event": "Jaitu Da Morcha (Faridkot)"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Fagun - Chet",
-      "month": "March 2026",
-      "description": "Nanakshahi Sammat 556",
-      "types": {
-        "important": [
-          {
-            "date": "14 Mar",
-            "event": "Sangrand (Chet)"
-          },
-          {
-            "date": "03 Mar",
-            "event": "Puranmashi"
-          },
-          {
-            "date": "29 Mar",
-            "event": "Masya"
-          }
-        ],
-        "historical": [
-          {
-            "date": "04 Mar",
-            "event": "Holla Mahala"
-          },
-          {
-            "date": "08 Mar",
-            "event": "Komantri Mahila Divas"
-          },{
-            "date": "14 Mar",
-            "event": "Arrambhta Sammat Nanakshahi 558"
-          },{
-            "date": "14 Mar",
-            "event": "Shaheedi Diwas\nJathedar Baba Akali \nPhoola Singh"
-          },{
-            "date": "15 Mar",
-            "event": "Delhi Fateh Diwas"
-          },
-
-          {
-            "date": "23 Mar",
-            "event": "Shaheedi Bhagat Singh"
-          },
-          {
-            "date": "25 Mar",
-            "event": "Shaheedi Bhai Subheg Singh & Bhai Shabaz Singh"
-          }
-        ],
-        "gurupurab": [
-          {
-            "date": "17 Mar",
-            "event": "Gurgaddi Diwas\nSri Guru Har Rai Sahib Ji"
-          },
-          {
-            "date": "19 Mar",
-            "event": "Gurgaddi Diwas\nGuru Amardass Ji"
-          },
-          {
-            "date": "22 Mar",
-            "event": "Jyoti Jyot\nSri Guru Angad Dev Ji"
-          },
-          {
-            "date": "23 Mar",
-            "event": "Jyoti Jyot\nSri Guru Hargobind Ji"
-          }
-        ]
-      }
-    },
-    {
       "title": "Chet - Vaisakh",
       "month": "April 2026",
       "description": "Nanakshahi Sammat 557",
       "types": {
         "important": [
-        { "date": "12 Apr", "event": "Puranmashi" },
-        { "date": "13 Apr", "event": "Sangrand (Vaisakh)" },
-        { "date": "27 Apr", "event": "Masya" }
+        { "date": "02 Apr", "event": "Puranmashi" },
+        { "date": "14 Apr", "event": "Sangrand (Vaisakh)" },
+        { "date": "17 Apr", "event": "Masya" }
         ],
         "historical": [
            {
@@ -197,34 +20,37 @@
             "event": "Sikh Dastar Diwas"
           },
           {
-            "date": "13 Apr",
+            "date": "14 Apr",
             "event": "Khalsa Sirjna Diwas"
           },
           {
-            "date": "20 Apr",
+            "date": "21 Apr",
             "event": "Janam Diwas\nBhagat Dhanna Ji"
           }
         ],
         "gurupurab": [
           {
-            "date": "11 Apr",
+            "date": "01 Apr",
             "event": "Gurgaddi Diwas\nSri Guru Teg Bahadur Ji"
           },
           {
-            "date": "11 Apr",
+            "date": "01 Apr",
             "event": "Jyoti Jyot\nSri Guru Harikrishan Sahib Ji"
           },
           {
-            "date": "18 Apr",
+            "date": "07 Apr",
             "event": "Parkash Purab\nSri Guru Teg Bahadur Ji"
           },
           {
-            "date": "20 Apr",
+            "date": "09 Apr",
             "event": "Parkash Purab\nSri Guru Arjan Dev Ji"
           },
           {
-            "date": "28 Apr",
+            "date": "18 Apr",
             "event": "Parkash Purab\nSri Guru Angad Dev Ji"
+          },{
+            "date": "30 Apr",
+            "event": "Prakash Purab\nShri Guru Amardas Ji"
           }
         ]
       }
@@ -237,35 +63,28 @@
       "types": {
         "important": [
           {
-            "date": "14 May",
+            "date": "15 May",
             "event": "Sangrand (Jeth)"
           },
           {
-            "date": "12 May",
+            "date": "31 May",
             "event": "Puranmashi"
           },
           {
-            "date": "27 May",
+            "date": "16 May",
             "event": "Masya"
           }
         ],
         "gurupurab": [
+
           {
-            "date": "11 May",
-            "event": "Prakash Purab\nShri Guru Amardas Ji"
-          },
-          {
-            "date": "20 May",
-            "event": "Gurgaddi Diwas\nGuru Harigobind Ji"
-          },
-          {
-            "date": "30 May",
-            "event": "Shaheedi Diwas\nGuru Arjan Dev Ji"
+            "date": "0 May",
+            "event": "No Gurpurab in this month"
           }
         ],
         "historical": [
           {
-            "date": "03 May",
+            "date": "04 May",
             "event": "Shaheedi Jor Mela Sri Muktsar Sahib"
           },
           {
@@ -277,11 +96,11 @@
             "event": "Sirhind Fateh Divas"
           },
           {
-            "date": "16 May",
+            "date": "17 May",
             "event": "Chhota Ghallughara (Gurdaspur)"
           },
           {
-            "date": "18 May",
+            "date": "19 May",
             "event": "Janamdin\nSardar Jassa Singh Ahluwalia"
           },
           {
@@ -303,17 +122,26 @@
             "event": "Sangrand (Harh)"
           },
           {
-            "date": "11 June",
-            "event": "Puranmashi"
+            "date": "15 June",
+            "event": "Masya"
           },
           {
-            "date": "25 June",
-            "event": "Masya"
+            "date": "29 June",
+            "event": "Puranmashi"
           }
+          
         ],
         "gurupurab": [
           {
-            "date": "12 June",
+            "date": "08 June",
+            "event": "Gurgaddi Diwas\nGuru Harigobind Ji"
+          },
+          {
+            "date": "18 June",
+            "event": "Shaheedi Diwas\nGuru Arjan Dev Ji"
+          },
+          {
+            "date": "30 June",
             "event": "Parkash Purab\nSri Guru Hargobind Sahib Ji"
           }
         ],
@@ -331,24 +159,18 @@
             "event": "Shaheedi Diwas\nSant Jarnail Singh Ji Khalsa Bhindranwale, Bhai Amreek Singh Ji"
           },
           {
-            "date": "11 June",
-            "event": "Janamdin Bhagat Kabir Ji"
-          },
-          {
-            "date": "11 June",
-            "event": "Jor Mela Gurudwara Sri Reetha Sahib"
-          },
-          {
-            "date": "16 June",
-            "event": "Sri Akal Takht Sahib Foundation Day"
-          },
-          {
             "date": "25 June",
             "event": "Shaheedi Diwas\nBaba Banda Singh Ji Bahadur"
           },
           {
             "date": "29 June",
             "event": "Barsi - Maharaja Ranjit Singh Ji"
+          },{
+            "date": "29 June",
+            "event": "Jor Mela Gurudwara Sri Reetha Sahib"
+          },{
+            "date": "29 June",
+            "event": "Janamdin Bhagat Kabir Ji"
           }
         ]
       }
@@ -361,41 +183,47 @@
       "types": {
         "important": [
           {
-            "date": "10 July",
-            "event": "Puranmashi"
-          },
-          {
+            "date": "14 July",
+            "event": "Masya"
+          },{
             "date": "16 July",
             "event": "Sangrand (Saavan)"
           },
           {
-            "date": "24 July",
-            "event": "Masya"
+            "date": "29 July",
+            "event": "Puranmashi"
           }
+          
+          
         ],
         "gurupurab": [
           {
-            "date": "19 July",
-            "event": "Prakash Purab\nSri Guru Harkrishan Sahib Ji"
+            "date": "0 July",
+            "event": "No Gurpurab in this month"
           }
         ],
         "historical": [
           {
             "date": "05 July",
-            "event": "Miri Piri Divas\nSri Guru Harigobind Ji"
-          },
-          {
+            "event": "Sri Akal Takht Sahib Foundation Day"
+          },{
             "date": "09 July",
             "event": "Shaheedi Diwas\nBhai Mani Singh Ji"
-          },
-          {
+          },{
             "date": "16 July",
             "event": "Shaheedi Diwas\nBhai Taru Singh Ji"
           },
           {
+            "date": "24 July",
+            "event": "Miri Piri Divas\nSri Guru Harigobind Ji"
+          },{
             "date": "31 July",
             "event": "Shaheedi Diwas\nS. Udham Singh Ji"
           }
+          
+          
+          
+          
         ]
       }
     },
@@ -407,55 +235,40 @@
       "types": {
         "important": [
           {
-            "date": "16 Aug",
+            "date": "17 Aug",
             "event": "Sangrand (Bhadon)"
           },
           {
-            "date": "09 Aug",
+            "date": "28 Aug",
             "event": "Puranmashi"
           },
           {
-            "date": "23 Aug",
+            "date": "12 Aug",
             "event": "Masya"
           }
         ],
         "gurupurab": [
-          {
-            "date": "24 Aug",
-            "event": "Pehla Prakash Purab\nSri Guru Granth Sahib Ji"
-          },
-          {
-            "date": "25 Aug",
-            "event": "Gurgaddi Diwas\nSri Guru Arjan Dev Ji"
-          },
-          {
-            "date": "26 Aug",
-            "event": "Jyoti Jyot\nSri Guru Ramdas Ji"
-          },
-          {
-            "date": "29 Aug",
+          { "date": "07 Aug", "event": "Parkash Purab\nSri Harkrishan Sahib Ji" },
+{
+            "date": "30 Aug",
             "event": "Sampooranta Diwas\nSri Guru Granth Sahib Ji"
           }
+          
         ],
         "historical": [
           {
             "date": "08 Aug",
             "event": "Morcha Guru Ka Baag (Sri Amritsar)"
           },
+
           {
-            "date": "09 Aug",
-            "event": "Jor Mela Baba Bakala"
-          },
-          {
-            "date": "20 Aug",
+            "date": "21 Aug",
             "event": "Shaheedi Diwas\nSant Harchand Singh Ji Longowal"
-          },
+          }, 
+          
           {
-            "date": "30 Aug",
-            "event": "Jor Mela Gurudwara Kandh Sahib (Batala)"
-          }, {
-            "date": "30 Aug",
-            "event": "Marriage Day\nSri Guru Nanak Dev Ji (Batala)"
+            "date": "28 Aug",
+            "event": "Jor Mela Baba Bakala"
           }
         ]
       }
@@ -468,43 +281,54 @@
   "types": {
     "important": [
       {
-        "date": "16 Sep",
+        "date": "17 Sep",
         "event": "Sangrand (Assu)"
       },
       {
-        "date": "07 Sep",
+        "date": "26 Sep",
         "event": "Puranmashi"
       },
       {
-        "date": "21 Sep",
+        "date": "11 Sep",
         "event": "Masya"
       }
     ],
     "gurupurab": [
-      {
-        "date": "05 Sep",
+          {
+            "date": "12 Sep",
+            "event": "Pehla Prakash Purab\nSri Guru Granth Sahib Ji"
+          },
+          {
+            "date": "13 Sep",
+            "event": "Gurgaddi Diwas\nSri Guru Arjan Dev Ji"
+          },
+          {
+            "date": "14 Sep",
+            "event": "Jyoti Jyot Purab\nSri Guru Ramdas Ji"
+          },  {
+            "date": "18 Sep",
+            "event": "Jor Mela Gurudwara Kandh Sahib (Batala)"
+          },{
+            "date": "18 Sep",
+            "event": "Marriage Day\nSri Guru Nanak Dev Ji (Batala)"
+          },{
+        "date": "24 Sep",
         "event": "Gurgaddi Diwas\nSri Guru Ramdas Ji"
       },
       {
-        "date": "07 Sep",
+        "date": "26 Sep",
         "event": "Jyoti Jyot\nSri Guru Amardas Ji"
-      },
-      {
-        "date": "12 Sep",
-        "event": "Gurgaddi Diwas\nSri Guru Angad Dev Ji"
-      },
-      {
-        "date": "16 Sep",
-        "event": "Jyoti Jyot\nSri Guru Nanak Dev Ji"
-      }
+      } 
+      
+     
     ],
     "historical": [
       {
-        "date": "07 Sep",
+        "date": "26 Sep",
         "event": "Jor Mela Govindwal Sahib"
       },
       {
-        "date": "11 Sep",
+        "date": "30 Sep",
         "event": "Jor Mela Baba Buddha Ji (Ramdas)"
       }
     ]
@@ -522,65 +346,47 @@
         "event": "Sangrand (Kattak)"
       },
       {
-        "date": "07 Oct",
+        "date": "26 Oct",
         "event": "Puranmashi"
       },
       {
-        "date": "21 Oct",
+        "date": "10 Oct",
         "event": "Masya"
       }
     ],
     "gurupurab": [
-      {
-        "date": "08 Oct",
-        "event": "Parkash Purab\nSri Guru Ramdas Ji"
+       {
+        "date": "01 Oct",
+        "event": "Gurgaddi Diwas\nSri Guru Angad Dev Ji"
       },
       {
-        "date": "15 Oct",
-        "event": "Jyoti Jyot\nSri Guru Har Rai Sahib Ji"
-      },
-      {
-        "date": "15 Oct",
-        "event": "Gurgaddi Diwas\nSri Guru Har Krishan Sahib Ji"
-      },
-      {
-        "date": "21 Oct",
-        "event": "Bandi Chor Divas (Diwali)"
+        "date": "05 Oct",
+        "event": "Jyoti Jyot Purab\nSri Guru Nanak Dev Ji"
       },{
-        "date": "23 Oct",
-        "event": "Gurgaddi Diwas\nSri Guru Granth Sahib Ji"
-      },
-      {
-        "date": "26 Oct",
-        "event": "Jyoti Jyot\nSri Guru Gobind Singh Ji"
+        "date": "27 Oct",
+        "event": "Parkash Purab\nSri Guru Ramdas Ji"
       }
     ],
     "historical": [
       {
-        "date": "06-07 Oct",
+        "date": "07-08 Oct",
         "event": "Jor Mela Baba Buddha Ji(Thatha)"
-      },
-      {
-        "date": "09 Oct",
-        "event": "Janamdin Bhai Taru Singh Ji"
-      },
-      {
-        "date": "09 Oct",
-        "event": "Shaheedi\nBhai Sukhdev Singh Ji"
-      },
-      {
+      },{
         "date": "09 Oct",
         "event": "Shaheedi\nBhai Harjinder Singh Ji"
-      },
-      {
+      },{
+        "date": "09 Oct",
+        "event": "Shaheedi\nBhai Sukhdev Singh Ji"
+      },{
+        "date": "10 Oct",
+        "event": "Janamdin Bhai Taru Singh Ji"
+      },{
         "date": "21 Oct",
         "event": "Janam Diwas\nSant Kartar Singh Ji Bhindranwale"
-      },
-      {
+      },{
         "date": "23 Oct",
         "event": "Janam Diwas\nBaba Budha Ji"
-      },
-      {
+      }, {
         "date": "23 Oct",
         "event": "Barsi - Sardar Jassa Singh Ahluwalia"
       },
@@ -610,58 +416,63 @@
             "event": "Sangrand (Magghar)"
           },
           {
-            "date": "05 Nov",
+            "date": "24 Nov",
             "event": "Puranmashi"
           },
           {
-            "date": "20 Nov",
+            "date": "09 Nov",
             "event": "Masya"
           }
         ],
         "gurupurab": [
           {
-            "date": "05 Nov",
+        "date": "03 Nov",
+        "event": "Jyoti Jyot Purab\nSri Guru Har Rai Sahib Ji"
+      },
+      {
+        "date": "03 Nov",
+        "event": "Gurgaddi Diwas\nSri Guru Har Krishan Sahib Ji"
+      },{
+        "date": "08 Nov",
+        "event": "Bandi Chor Divas (Diwali)"
+      },{
+        "date": "11 Nov",
+        "event": "Gurgaddi Diwas\nSri Guru Granth Sahib Ji"
+      },
+      {
+        "date": "14 Nov",
+        "event": "Jyoti Jyot Purab\nSri Guru Gobind Singh Ji"
+      }, {
+            "date": "24 Nov",
             "event": "Parkash Purab\nSri Guru Nanak Dev Ji"
-          },
-          {
-            "date": "23 Nov",
-            "event": "Gurgaddi Diwas\nSri Guru Gobind Singh Ji\n(350 salan Purab)"
-          },
-          {
-            "date": "25 Nov",
-            "event": "Shaheedi Diwas\nSri Guru Teg Bahadur Ji\n(350 salan Purab)"
           }
+
         ],
         "historical": [
           {
             "date": "01 Nov",
             "event": "Punjab Day"
-          },
-          {
-            "date": "02 Nov",
-            "event": "Janam Diwas\nBhagat Namdev Ji"
-          },
-          {
+          },  {
             "date": "03 Nov",
             "event": "Janam Diwas\nMata Sahib Kaur Ji"
-          },
-          {
+          },{
             "date": "15 Nov",
             "event": "Shaheedi Diwas\nBaba Deep Singh Ji"
           },
+          
           {
             "date": "15 Nov",
             "event": "SGPC Foundation Day"
           },
-          {
-            "date": "24 Nov",
-            "event": "Shaheedi Diwas\nBhai Dayala Ji, Bhai Mati Das Ji, Bhai Sati Das Ji\n(350 salan Purab)"
-          },
-          {
+          { "date": "16 Nov",
+            "event": "Shaheedi Diwas\nKartar Singh Saraba"
+          },{
+            "date": "20 Nov",
+            "event": "Janam Diwas\nBhagat Namdev Ji"
+          },{
             "date": "28 Nov",
             "event": "Akal Chalana - Bhai Mardana Ji"
-          },
-          {
+          },{
             "date": "30 Nov",
             "event": "Janamdin Diwas\nSahibzada Zorawar Singh Ji"
           }
@@ -675,30 +486,36 @@
       "types": {
         "important": [
           {
-            "date": "15 Dec",
+            "date": "16 Dec",
             "event": "Sangrand (Poh)"
           },
           {
-            "date": "04 Dec",
+            "date": "23 Dec",
             "event": "Puranmashi"
           },
           {
-            "date": "19 Dec",
+            "date": "08 Dec",
             "event": "Masya"
           }
         ],
         "gurupurab": [
+           {
+            "date": "12 Dec",
+            "event": "Gurgaddi Diwas\nSri Guru Gobind Singh Ji"
+          },
           {
-            "date": "27 Dec",
-            "event": "Prakash Purab\nShri Guru Gobind Singh Ji"
+            "date": "14 Dec",
+            "event": "Shaheedi Diwas\nSri Guru Teg Bahadur Ji"
           }
         ],
         "historical": [
           {
             "date": "04 Dec",
             "event": "Shaheedi Diwas\nBaba Gurbaksh Singh Ji"
-          },
-          {
+          },{
+            "date": "13 Dec",
+            "event": "Shaheedi Diwas\nBhai Dayala Ji, Bhai Mati Das Ji, Bhai Sati Das Ji\n(350 salan Purab)"
+          },{
             "date": "14 Dec",
             "event": "Janam Diwas\nSahibzada Fateh Singh Ji"
           },
@@ -706,30 +523,33 @@
             "date": "14 Dec",
             "event": "Shiromani Akali Dal Foundation Day"
           },
-          {
-            "date": "20 Dec",
+          { "date": "18 Dec",
+            "event": "Sees Sanskar \nSri Guru Teg Bahadur Ji"
+          },{
+            "date": "21 Dec",
             "event": "Leaving Fort Sri Anandgarh Sahib"
           },
           {
-            "date": "21 Dec",
+            "date": "22 Dec",
             "event": "Family Separation (Sarsa Nangal)"
           },
           {
-            "date": "21 Dec",
+            "date": "22 Dec",
             "event": "Shaheedi Diwas\nBaba Jivan Singh Ji (Bhai Jaita Ji)"
           },
           {
-            "date": "22 Dec",
+            "date": "23 Dec",
             "event": "Shaheedi Diwas\nWadde Sahibzade (Chamkaur Sahib)"
           },
           {
-            "date": "23 Dec",
+            "date": "24 Dec",
             "event": "Shaheedi Diwas\nBhai Sangat Singh Ji"
           },
           {
-            "date": "27 Dec",
+            "date": "28 Dec",
             "event": "Shaheedi Diwas\nChhote Sahibzade & Mata Gujari Ji"
           }
+
         ]
       }
     },
@@ -744,25 +564,27 @@
             "event": "Sangrand (Magh)"
           },
           {
-            "date": "03 Jan",
+            "date": "22 Jan",
             "event": "Puranmashi"
           },
           {
-            "date": "18 Jan",
+            "date": "07 Jan",
             "event": "Masya"
           }
         ],
         "gurupurab": [
           {
-            "date": "31 Jan",
-            "event": "Prakash Purab\nShri Guru Har Rai Sahib Ji"
+            "date": "15 Jan",
+            "event": "Prakash Purab\nShri Guru Gobind Singh Ji"
           }
+          
         ],
         "historical": [
           {
             "date": "06 Jan",
             "event": "Shaheedi Diwas Bhai Kehar Singh\nBhai Satwant Singh "
           },
+          
           {
             "date": "14 Jan",
             "event": "Foundation day \nSachkhand Sri Harimandir Sahib"
@@ -770,24 +592,13 @@
           {
             "date": "14 Jan",
             "event": "Jor Mela Shri Mukatsar Sahib (Maghi) "
-          },
-          {
+          },{
             "date": "20 Jan",
             "event": "Chabiyan Da Morcha"
-          },
-          {
-            "date": "23 Jan",
-            "event": "Marriage Day\nSri Guru Gobind Singh ji \n(Guru ka Lahore)"
-          },
-          {
-            "date": "23 Jan",
-            "event": "Bansant Panchami"
-          },
-          {
+          }, {
             "date": "26 Jan",
             "event": "Republic Day"
-          },
-          {
+          },{
             "date": "27 Jan",
             "event": "Janam Diwas\nBaba Deep Singh Ji"
           }
@@ -800,37 +611,47 @@
       "types": {
         "important": [
           {
-            "date": "12 Feb",
+            "date": "13 Feb",
             "event": "Sangrand (Fagun)"
           },
           {
-            "date": "01 Feb",
+            "date": "20 Feb",
             "event": "Puranmashi"
           },
           {
-            "date": "17 Feb",
+            "date": "06 Feb",
             "event": "Masya"
           }
         ],
         "gurupurab": [
           {
-            "date": "0 Feb",
-            "event": "No Gurpurab in this month"
+            "date": "19 Feb",
+            "event": "Prakash Purab\nShri Guru Har Rai Sahib Ji"
           }
         ],
-        "historical": [
-          {
-            "date": "01 Feb",
-            "event": "Janam Diwas\nBhagat Ravidas Ji"
-          },
-          {
+        "historical": [{
             "date": "09 Feb",
             "event": "Vadda Ghallu Ghara"
           },
+
           {
             "date": "11 Feb",
+            "event": "Marriage Day\nSri Guru Gobind Singh ji \n(Guru ka Lahore)"
+          },
+          {
+            "date": "11 Feb",
+            "event": "Bansant Panchami"
+          },{
+            "date": "12 Feb",
             "event": "Janam Diwas\nSahibzada Baba Ajit Singh Ji"
           },
+
+          {
+            "date": "20 Feb",
+            "event": "Janam Diwas\nBhagat Ravidas Ji (650 salan Purab)"
+          },
+          
+          
           {
             "date": "21 Feb",
             "event": "Shaheedi Saka Sri Nankana Sahib"
@@ -843,7 +664,7 @@
       }
     },{
       "title": "Fagun - Chet",
-      "month": "March 2026",
+      "month": "March 2027",
       "description": "March mOnth ka new year tak hi he",
       "types": {
         "important": [
@@ -852,11 +673,11 @@
             "event": "Sangrand (Chet)"
           },
           {
-            "date": "03 Mar",
+            "date": "22 Mar",
             "event": "Puranmashi"
           },
           {
-            "date": "29 Mar",
+            "date": "08 Mar",
             "event": "Masya"
           }
         ],
